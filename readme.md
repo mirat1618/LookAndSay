@@ -9,7 +9,7 @@
 
 Containing:
 * algorithm.rb — generating next sequence algorithm
-* LookAndSay.rb — class generating sequences
-* LookAndSay_spec.rb — RSpec test for the class
+* look_and_say.rb — class generating sequences
+* look_and_say_spec.rb — RSpec test for the class
 
 Ruby v. 2.5.3
